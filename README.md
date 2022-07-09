@@ -1,7 +1,7 @@
-## Oiii eu sou a Deisyane Sales, Desenvolvedora!
+## Oiii eu sou a Deisyane Sales, Desenvolvedora de Software!
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="1920" height="597">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="900" height="300">
 
 
 <div style="display: inline_block" ><br>
@@ -30,9 +30,9 @@
 
 
  <br>
-<div align="center">
+<div >
   <a href="https://github.com/deisleted">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deisleted&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deisleted&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp; &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deisleted&layout=compact&langs_count=7&theme=dracula"/>
   
   
