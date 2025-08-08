@@ -23,17 +23,17 @@ Estou sempre a construir e a aprender. Aqui estão alguns dos projetos dos quais
 1.  **Sistema de Auditoria de Fretes:**
     * **Descrição:** Desenvolvi uma solução em Python e SQL para auditar faturas de frete de forma automatizada, cruzando dados de múltiplas fontes para identificar cobranças indevidas.
     * **Impacto:** **Recuperação de mais de R$ 1 milhão** para a empresa no primeiro ano.
-    * *(Link para o repositório do projeto)*
+ 
 
 2.  **Dashboard de Control Tower Logística:**
     * **Descrição:** Criei uma solução de dados completa, desde a extração e tratamento com pipelines em Python (ETL) até a centralização em um Data Warehouse e a visualização em dashboards interativos com Power BI.
     * **Impacto:** Proporcionei, pela primeira vez, uma **visão 100% centralizada e em tempo real** das entregas, otimizando a tomada de decisão.
-    * *(Link para uma demonstração ou repositório)*
+
 
 3.  **Software de Gestão de Pátio com RPA:**
     * **Descrição:** Idealizei e desenvolvi uma solução com RPA e AppSheets para automatizar o controle de entrada e saída de veículos, eliminando processos manuais e falhas de comunicação.
     * **Impacto:** **Economia anual superior a R$ 12 mil** com custos de estadia e otimização do fluxo operacional.
-    * *(Link para o repositório do projeto)*
+
 
 ---
 
